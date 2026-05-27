@@ -1,14 +1,15 @@
 <div align="center">
-  <h1>👊 Venkat</h1>
+  <h1>👊 Venkat Lalisetti</h1>
   <h3>Aspiring Full Stack Developer & DSA Grinder</h3>
+  <p>Building the future, one commit at a time.</p>
 </div>
 
 ---
 
 ### 🔥 About Me
-- Building real-world AI-powered tools and modern web applications
-- Grinding DSA daily to sharpen problem-solving and logic
-- Obsessed with clean, scalable, and high-performance code
+- Crafting real-world **AI-powered tools** and scalable web applications
+- Daily DSA warrior — solving problems to sharpen logic and speed
+- Obsessed with clean architecture, performance, and writing code that lasts
 
 > **"Every line of code I write brings me closer to elite."**
 
@@ -27,7 +28,7 @@
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Currently Focused On:** AI Tools • System Design • Advanced DSA
+**Currently Grinding:** AI Tools • System Design • Advanced Algorithms
 
 ---
 
@@ -37,16 +38,18 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat143-2&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkat143-2&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 🚀 Featured Projects
-- **[Bank-Management-System-Console](https://github.com/Venkat143-2/Bank-Management-System-Console)**
-- **[TicTacToe-C-Console](https://github.com/Venkat143-2/TicTacToe-C-Console)**
+
+- **[Bank-Management-System-Console](https://github.com/Venkat143-2/Bank-Management-System-Console)** — Java OOP Bank System
+- **[TicTacToe-C-Console](https://github.com/Venkat143-2/TicTacToe-C-Console)** — C Tic Tac Toe with smart logic
+
+**More powerful projects incoming...**
 
 ---
 
 <div align="center">
-  <strong>Turning caffeine into code. One commit. One battle. No excuses.</strong>
+  <strong>Turning caffeine into code.<br>
+  No excuses. Only execution.</strong>
 </div>
