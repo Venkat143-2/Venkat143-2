@@ -33,9 +33,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkat143-2&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkat143-2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat143-2&theme=tokyonight&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat143-2&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkat143-2&theme=tokyonight&hide_border=true)
 
 ---
 
