@@ -1,16 +1,16 @@
 <div align="center">
   <h1>👊 Venkat</h1>
-  <h3>Aspiring Full Stack Developer & DSA Grinder from India</h3>
+  <h3>Aspiring Full Stack Developer & DSA Grinder</h3>
 </div>
 
 ---
 
 ### 🔥 About Me
-- Building AI tools and modern web applications
-- Daily DSA practice to level up problem-solving
-- Turning caffeine into clean, scalable code
+- Building real-world AI-powered tools and modern web applications
+- Grinding DSA daily to sharpen problem-solving and logic
+- Obsessed with clean, scalable, and high-performance code
 
-> **"Every bug fixed makes me dangerous. Every project shipped makes me unstoppable."**
+> **"Every line of code I write brings me closer to elite."**
 
 ---
 
@@ -27,9 +27,11 @@
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Currently Focused On:** AI Tools • System Design • Advanced DSA
+
 ---
 
-### 📊 My Stats
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkat143-2&theme=tokyonight&show_icons=true)
 
@@ -38,11 +40,11 @@
 ---
 
 ### 🚀 Featured Projects
-- [Bank-Management-System-Console](https://github.com/Venkat143-2/Bank-Management-System-Console)
-- [TicTacToe-C-Console](https://github.com/Venkat143-2/TicTacToe-C-Console)
+- **[Bank-Management-System-Console](https://github.com/Venkat143-2/Bank-Management-System-Console)**
+- **[TicTacToe-C-Console](https://github.com/Venkat143-2/TicTacToe-C-Console)**
 
 ---
 
 <div align="center">
-  <strong>One commit at a time. Building my empire.</strong>
+  <strong>Turning caffeine into code. One commit. One battle. No excuses.</strong>
 </div>
