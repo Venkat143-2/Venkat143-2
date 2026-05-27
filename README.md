@@ -46,11 +46,10 @@
 - **[Bank-Management-System-Console](https://github.com/Venkat143-2/Bank-Management-System-Console)** — Java OOP Bank System
 - **[TicTacToe-C-Console](https://github.com/Venkat143-2/TicTacToe-C-Console)** — C Tic Tac Toe with smart logic
 
-**More powerful projects incoming...**
+**More fire projects coming soon...**
 
 ---
 
 <div align="center">
-  <strong>Turning caffeine into code.<br>
-  No excuses. Only execution.</strong>
+  <strong>One commit at a time. Building my empire.</strong>
 </div>
