@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/Venkat143-2/Venkat143-2/blob/main/header.png" alt="Venkat Banner" width="100%" style="border-radius: 10px;"/>
   <h1>👊 Venkat Lalisetti</h1>
   <h3>Aspiring Full Stack Developer & DSA Grinder</h3>
   <p>Building the future, one commit at a time.</p>
