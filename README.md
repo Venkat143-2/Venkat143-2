@@ -38,7 +38,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkat143-2&theme=radical&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat143-2&theme=radical&layout=compact&hide_border=true)
-
 ---
 
 ### 🚀 Featured Projects
