@@ -84,7 +84,8 @@ Building production-ready projects
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Venkat's GitHub Stats" height="180"/>
-  --- <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
+  ---
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
 </p>
 
 ---
