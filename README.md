@@ -82,10 +82,22 @@ Building production-ready projects
 
 ## 📊 GitHub Stats
 
-<div>
-<img src="./profile/stats.svg" width="48%" />
-<br/>
-<img src="./profile/top-langs.svg" width="48%" />
+<div align="center">
+
+<a href="https://github-stats-extended.vercel.app/api?username=Venkat143-2">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Venkat143-2&theme=radical&show_icons=true&hide_border=true"
+    width="48%"
+  />
+</a>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Venkat143-2">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Venkat143-2&theme=radical&layout=compact&hide_border=true"
+    width="48%"
+  />
+</a>
+
 </div>
 
 ---
