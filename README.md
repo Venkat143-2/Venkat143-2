@@ -82,8 +82,9 @@ Building production-ready projects
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 <img src="./profile/stats.svg" width="48%" />
+<br/>
 <img src="./profile/top-langs.svg" width="48%" />
 </div>
 
