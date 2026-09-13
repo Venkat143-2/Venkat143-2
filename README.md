@@ -82,23 +82,9 @@ Building production-ready projects
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Venkat143-2&theme=radical&show_icons=true&show_forks=true&hide_border=true)
 
-<a href="https://github-stats-extended.vercel.app/api?username=Venkat143-2">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Venkat143-2&theme=radical&show_icons=true&hide_border=true"
-    width="48%"
-  />
-</a>
-
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=Venkat143-2">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Venkat143-2&theme=radical&layout=compact&hide_border=true"
-    width="48%"
-  />
-</a>
-
-</div>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Venkat143-2&theme=radical&layout=compact&hide_border=true)
 
 ---
 
