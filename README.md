@@ -103,7 +103,7 @@ Building production-ready projects
 
 *Consistency is the only real edge.*
 
-**Repo** → [Link here]
+**Repo** → [https://github.com/Venkat143-2/Consistency_Tracker]
 
 ### 🏦 Bank Management System
 Java OOP console application (early project — will be replaced soon with something stronger).
@@ -112,12 +112,12 @@ Java OOP console application (early project — will be replaced soon with somet
 - Transaction handling  
 - OOP principles  
 
-**Repo** → [Link here]
+**Repo** → [https://github.com/Venkat143-2/Bank-Management-System-Console]
 
 ### 🎮 Tic Tac Toe
 C console game (basic — not featured long-term).
 
-**Repo** → [Link here]
+**Repo** → [https://github.com/Venkat143-2/TicTacToe-C-Console]
 
 ---
 
