@@ -82,7 +82,7 @@ Building production-ready projects
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="./profile/stats.svg" alt="Venkat's GitHub Stats" height="180"/><br/>
   <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
 </p>
@@ -152,4 +152,3 @@ Small daily actions turn average into elite.
 🚀 Building skills. Building the future.
 
 ⭐ Thanks for visiting.
-```
